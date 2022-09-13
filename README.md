@@ -3,10 +3,9 @@
 <h3 align="center">A passionate Data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif")
 
+
 - 🌱 I’m currently learning **Data Science**
-
 - 👨‍💻 All of my projects are available at [https://github.com/poojac96](https://github.com/poojac96)
-
 - 📫 How to reach me **poojachachane29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
